@@ -1,0 +1,5 @@
+node_modules/
+uploads/complaints/*
+!uploads/complaints/.gitkeep
+.env
+*.log
